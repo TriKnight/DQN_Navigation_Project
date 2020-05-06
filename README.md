@@ -52,7 +52,7 @@ In this project:
 **Reward**:  +1 when Agent get Yellow Banana and -1 when get Purple Banana
 
 
-*Explain Detail Observation:*
+***Explain Detail Observation:***
 7 ray perceptions with each ray include 5 entries (35 values) and 2 Value agent's velocity
 ![alt text](https://github.com/TriKnight/DQN_Navigation_Project/blob/master/pics/banana_env_observations.png)
 [Source](https://wpumacay.github.io/research_blog/posts/deeprlnd-project1-navigation/?fbclid=IwAR2oHLD-WwJkBdyis6sHMgSDH7-LkjHxaZGELckBTY_Sy_qfLwaxGX2lp4I)
@@ -66,7 +66,7 @@ Each ray is represented by a vector with 4th first elements are the indetical ra
 
 *Fig3. Observation ray explain*
 
-*Explain Detail Action*: 
+***Explain Detail Action***: 
 4 Actions in the list bellow: 
 
 *Action 0*: Move forward 
