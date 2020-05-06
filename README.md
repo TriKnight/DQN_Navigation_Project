@@ -85,9 +85,9 @@ Each ray is represented by a vector with 4th first elements are the indetical ra
 </p>
 
 ### 3. The DQN Algorithms:
-Following the papper "Human-level control through deep reinforcementlearning"
-[link](http://files.davidqiu.com//research/nature14236.pdf)
-We have the DQN Algorithms with experience replay:
+Following the papper 
+["Human-level control through deep reinforcementlearning"](http://files.davidqiu.com//research/nature14236.pdf)
+.We have the DQN Algorithms with experience replay:
 ![alt text](https://github.com/TriKnight/DQN_Navigation_Project/blob/master/pics/DQN_Algorithm.png)
 
 <p align="center">
