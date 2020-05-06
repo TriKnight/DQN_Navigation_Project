@@ -37,7 +37,7 @@ Open Jupyter notebok. Go to ```Kernel/Change Kernel/DQN_navigation```
 2.1 Reinforcement Block diagram
 In the reinforcement learning. First step is determine what are the action, state, reward, agent, enviroment?
 
-![alt text](https://www.researchgate.net/profile/Roohollah_Amiri/publication/323867253/figure/fig2/AS:606095550738432@1521515848671/Reinforcement-Learning-Agent-and-Environment.png)
+![alt text](https://github.com/TriKnight/DQN_Navigation_Project/blob/master/pics/reinforcement-learning-fig1-700.jpg)
 
 In this project:
 
@@ -50,5 +50,8 @@ In this project:
 **Reward**:  +1 when Agent get Yellow Banana and -1 when get Purple Banana
 
 
+*Explain Detail Observation:*
+![alt text](https://github.com/TriKnight/DQN_Navigation_Project/blob/master/pics/banana_env_observations.png)
+[Source](https://wpumacay.github.io/research_blog/posts/deeprlnd-project1-navigation/?fbclid=IwAR2oHLD-WwJkBdyis6sHMgSDH7-LkjHxaZGELckBTY_Sy_qfLwaxGX2lp4I)
 
 
