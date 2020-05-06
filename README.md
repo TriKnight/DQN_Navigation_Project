@@ -12,8 +12,8 @@ source activate DQN_navigation
 ```
 ### 1.2 Install all dependence
 ```
-# git clone DQN_Navigation Project
-https://github.com/TriKnight/DQN_Navigation_Project
+# git clone DQN_Navigation_Project
+git clone https://github.com/TriKnight/DQN_Navigation_Project
 # clone the udacity repo
 git clone https://github.com/udacity/deep-reinforcement-learning.git
 
