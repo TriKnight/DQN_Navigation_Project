@@ -80,9 +80,9 @@ Each ray is represented by a vector with 4th first elements are the indetical ra
 
 ![alt text](https://github.com/TriKnight/DQN_Navigation_Project/blob/master/pics/banana_env_actions.png)
 [Source](https://wpumacay.github.io/research_blog/posts/deeprlnd-project1-navigation/?fbclid=IwAR2oHLD-WwJkBdyis6sHMgSDH7-LkjHxaZGELckBTY_Sy_qfLwaxGX2lp4I)
-<p align="center">
-*Fig3. Action of the Agent*
 
-</p>
+              		 *Fig3. Action of the Agent*
+
+
 
 
