@@ -1,8 +1,8 @@
 # DQN_Navigation_Project
 This is the DQN_Navigation_Project 
-
+## 1. Installation
 The Project use the MLAngents version 0.4.0 so we need to do some following steps
-### Create virtual environment using conda
+### 1.1 Create virtual environment using conda
 
 ```
 # Create the virtual env DQN
@@ -10,7 +10,7 @@ conda create -n DQN_navigation python=3.6
 # activate environment
 source activate DQN_navigation
 ```
-### Install all dependence
+### 1.2 Install all dependence
 ```
 # clone the udacity repo
 git clone https://github.com/udacity/deep-reinforcement-learning.git
@@ -26,12 +26,14 @@ cd PATH_TO_OUR_PACKAGE
 pip install -r requirements.txt
 
 ```
-### Create and Adding Kernel to Jupyter notebook
+### 1.3 Create and Adding Kernel to Jupyter notebook
 ```
 conda install -c anaconda ipykernel
 python -m ipykernel install  --user --name=DQN_navigation
 ```
 Open Jupyter notebok. Go to ```Kernel/Change Kernel/DQN_navigation```
+
+### 
 
 
 
