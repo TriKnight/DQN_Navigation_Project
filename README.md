@@ -33,8 +33,9 @@ python -m ipykernel install  --user --name=DQN_navigation
 ```
 Open Jupyter notebok. Go to ```Kernel/Change Kernel/DQN_navigation```
 
-## 2. Banana Navigation Envỉoment
-The 
+## 2. Banana Navigation Environment
+![alt text](https://www.researchgate.net/profile/Roohollah_Amiri/publication/323867253/figure/fig2/AS:606095550738432@1521515848671/Reinforcement-Learning-Agent-and-Environment.png)
+
 
 
 
