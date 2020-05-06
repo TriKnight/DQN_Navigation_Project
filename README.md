@@ -12,8 +12,7 @@ source activate DQN_navigation
 ```
 ### 1.2 Install all dependence
 ```
-# git clone DQN_Navigation_Project
-git clone https://github.com/TriKnight/DQN_Navigation_Project
+
 # clone the udacity repo
 git clone https://github.com/udacity/deep-reinforcement-learning.git
 
@@ -23,8 +22,12 @@ cd deep-reinforcement-learning/python
 # install the unityagents package from this folder
 pip install -e .
 
+# git clone DQN_Navigation_Project
+cd ..
+git clone https://github.com/TriKnight/DQN_Navigation_Project
+
 # install the requirements from our package
-cd PATH_TO_OUR_PACKAGE
+cd DQN_Navigation_Project
 pip install -r requirements.txt
 
 ```
