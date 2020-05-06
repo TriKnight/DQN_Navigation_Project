@@ -36,6 +36,7 @@ Open Jupyter notebok. Go to ```Kernel/Change Kernel/DQN_navigation```
 ## 2. Banana Navigation Environment
 2.1 Reinforcement Block diagram
 In the reinforcement learning. First step is determine what are the action, state, reward, agent, enviroment?
+
 ![alt text](https://www.researchgate.net/profile/Roohollah_Amiri/publication/323867253/figure/fig2/AS:606095550738432@1521515848671/Reinforcement-Learning-Agent-and-Environment.png)
 
 In this project:
