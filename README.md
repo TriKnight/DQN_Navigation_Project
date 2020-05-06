@@ -41,7 +41,12 @@ pip install -r requirements.txt
 conda install -c anaconda ipykernel
 python -m ipykernel install  --user --name=DQN_navigation
 ```
-Open Jupyter notebok. Go to ```Kernel/Change Kernel/DQN_navigation```
+Open Jupyter notebok. 
+```
+jupyter notebook
+```
+
+Go to ```Kernel/Change Kernel/DQN_navigation```
 
 ### 1.4 Download Environment
 1. Download the environment from one of the links below.  You need only select the environment that matches your operating system:
