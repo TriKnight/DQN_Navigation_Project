@@ -39,9 +39,9 @@ In the reinforcement learning. First step is determine what are the action, stat
 
 ![alt text](https://github.com/TriKnight/DQN_Navigation_Project/blob/master/pics/reinforcement-learning-fig1-700.jpg)
 
-*Fig1. Reinforcement Learning Diagram*
-
-In this project:
+<p align="center">
+Fig1. Reinforcement Learning Diagram
+</p>
 
 **Number of Agent**: only 1 and moving the planar environment to collect the banana.
 
