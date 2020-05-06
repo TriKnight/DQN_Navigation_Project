@@ -26,4 +26,10 @@ cd PATH_TO_OUR_PACKAGE
 pip install -r requirements.txt
 
 ```
+### Create and Adding Kernel to Jupyter notebook
+```
+conda install -c anaconda ipykernel
+python -m ipykernel install  --user --name=DQN_navigation
+```
+Open Jupyter notebok. Go to Kernel/Change Kernel/DQN_navigation
 
