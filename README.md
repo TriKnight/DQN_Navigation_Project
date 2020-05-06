@@ -58,7 +58,8 @@ Fig1. Reinforcement Learning Diagram
 
 <p align="center">
   Fig2. Agent ray-perceptions. a) 7 rays reaching at least one object (banana or wall). b) One ray reaching the max. length before reaching any object 
-</p>[Source](https://wpumacay.github.io/research_blog/posts/deeprlnd-project1-navigation/?fbclid=IwAR2oHLD-WwJkBdyis6sHMgSDH7-LkjHxaZGELckBTY_Sy_qfLwaxGX2lp4I)
+</p>
+[Source](https://wpumacay.github.io/research_blog/posts/deeprlnd-project1-navigation/?fbclid=IwAR2oHLD-WwJkBdyis6sHMgSDH7-LkjHxaZGELckBTY_Sy_qfLwaxGX2lp4I)
 
 Each ray is represented by a vector with 4th first elements are the indetical ray object detection and the last one is percentage of ray range, if ray range over the limit, it will be 0.0. The example show the ray[0 1 0 0 0.1534]
 
@@ -82,7 +83,8 @@ Each ray is represented by a vector with 4th first elements are the indetical ra
 
 <p align="center">
    Fig4. Action of the Agent
-</p>[Source](https://wpumacay.github.io/research_blog/posts/deeprlnd-project1-navigation/?fbclid=IwAR2oHLD-WwJkBdyis6sHMgSDH7-LkjHxaZGELckBTY_Sy_qfLwaxGX2lp4I)
+</p>
+[Source](https://wpumacay.github.io/research_blog/posts/deeprlnd-project1-navigation/?fbclid=IwAR2oHLD-WwJkBdyis6sHMgSDH7-LkjHxaZGELckBTY_Sy_qfLwaxGX2lp4I)
 
 
         
