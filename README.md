@@ -51,7 +51,15 @@ In this project:
 
 
 *Explain Detail Observation:*
+7 ray perceptions with each ray include 5 entries (35 values) and 2 Value agent's velocity
 ![alt text](https://github.com/TriKnight/DQN_Navigation_Project/blob/master/pics/banana_env_observations.png)
 [Source](https://wpumacay.github.io/research_blog/posts/deeprlnd-project1-navigation/?fbclid=IwAR2oHLD-WwJkBdyis6sHMgSDH7-LkjHxaZGELckBTY_Sy_qfLwaxGX2lp4I)
+
+Agent ray-perceptions. a) 7 rays reaching at least one object (banana or wall). b) One ray reaching the max. length before reaching any object
+
+*Explain Detail Action*: 
+
+*Action 0*: Move forward 
+*Action 1*: Move backward
 
 
