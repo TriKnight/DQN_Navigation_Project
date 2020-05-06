@@ -58,7 +58,7 @@ In this project:
 ![alt text](https://github.com/TriKnight/DQN_Navigation_Project/blob/master/pics/banana_env_observations.png)
 [Source](https://wpumacay.github.io/research_blog/posts/deeprlnd-project1-navigation/?fbclid=IwAR2oHLD-WwJkBdyis6sHMgSDH7-LkjHxaZGELckBTY_Sy_qfLwaxGX2lp4I)
 
-*Fig2. Agent ray-perceptions. a) 7 rays reaching at least one object (banana or wall). b) One ray reaching the max. length before reaching any object*
+  *Fig2. Agent ray-perceptions. a) 7 rays reaching at least one object (banana or wall). b) One ray reaching the max. length before reaching any object*
 
 
 Each ray is represented by a vector with 4th first elements are the indetical ray object detection and the last one is percentage of ray range, if ray range over the limit, it will be 0.0. The example show the ray[0 1 0 0 0.1534]
@@ -66,7 +66,7 @@ Each ray is represented by a vector with 4th first elements are the indetical ra
 
 ![alt text](https://github.com/TriKnight/DQN_Navigation_Project/blob/master/pics/ray_explain.png)
 
-*Fig3. Observation ray explain*
+  *Fig3. Observation ray explain*
 
 
 ***Explain Detail Action***: 
@@ -81,7 +81,10 @@ Each ray is represented by a vector with 4th first elements are the indetical ra
 ![alt text](https://github.com/TriKnight/DQN_Navigation_Project/blob/master/pics/banana_env_actions.png)
 [Source](https://wpumacay.github.io/research_blog/posts/deeprlnd-project1-navigation/?fbclid=IwAR2oHLD-WwJkBdyis6sHMgSDH7-LkjHxaZGELckBTY_Sy_qfLwaxGX2lp4I)
 
-              		 *Fig3. Action of the Agent*
+   *Fig4. Action of the Agent*
+
+
+        
 
 
 
