@@ -84,11 +84,22 @@ Each ray is represented by a vector with 4th first elements are the indetical ra
    Fig4. Action of the Agent
 </p>
 
+### 3. The DQN Algorithms:
+Following the papper "Human-level control through deep reinforcementlearning"
+[link](http://files.davidqiu.com//research/nature14236.pdf)
+We have the DQN Algorithms with experience replay:
+![alt text](https://github.com/TriKnight/DQN_Navigation_Project/blob/master/pics/DQN_Algorithm.png)
+
+<p align="center">
+   Fig5. The DQN Algorithms
+</p>
+
+
+
 ### References:
-1. https://wpumacay.github.io/ [Source](https://wpumacay.github.io/research_blog/posts/deeprlnd-project1-navigation/?fbclid=IwAR2oHLD-WwJkBdyis6sHMgSDH7-LkjHxaZGELckBTY_Sy_qfLwaxGX2lp4I)
+1. https://wpumacay.github.io/ [link](https://wpumacay.github.io/research_blog/posts/deeprlnd-project1-navigation/?fbclid=IwAR2oHLD-WwJkBdyis6sHMgSDH7-LkjHxaZGELckBTY_Sy_qfLwaxGX2lp4I)
 
-        
-
+       
 
 
 
