@@ -52,15 +52,13 @@ Fig1. Reinforcement Learning Diagram
 **Reward**:  +1 when Agent get Yellow Banana and -1 when get Purple Banana
 
 
-***Explain Detail Observation:***
-
-7 ray perceptions with each ray include 5 entries (35 values) and 2 Value agent's velocity
+***Explain Detail Observation:*** 7 ray perceptions with each ray include 5 entries (35 values) and 2 Value agent's velocity
 ![alt text](https://github.com/TriKnight/DQN_Navigation_Project/blob/master/pics/banana_env_observations.png)
-[Source](https://wpumacay.github.io/research_blog/posts/deeprlnd-project1-navigation/?fbclid=IwAR2oHLD-WwJkBdyis6sHMgSDH7-LkjHxaZGELckBTY_Sy_qfLwaxGX2lp4I)
+
 
 <p align="center">
-  Fig2. Agent ray-perceptions. a) 7 rays reaching at least one object (banana or wall). b) One ray reaching the max. length before reaching any object
-</p>
+  Fig2. Agent ray-perceptions. a) 7 rays reaching at least one object (banana or wall). b) One ray reaching the max. length before reaching any object 
+</p>[Source](https://wpumacay.github.io/research_blog/posts/deeprlnd-project1-navigation/?fbclid=IwAR2oHLD-WwJkBdyis6sHMgSDH7-LkjHxaZGELckBTY_Sy_qfLwaxGX2lp4I)
 
 Each ray is represented by a vector with 4th first elements are the indetical ray object detection and the last one is percentage of ray range, if ray range over the limit, it will be 0.0. The example show the ray[0 1 0 0 0.1534]
 
@@ -71,8 +69,7 @@ Each ray is represented by a vector with 4th first elements are the indetical ra
   Fig3. Observation ray explain
 </p>
 
-***Explain Detail Action***: 
-4 Actions in the list bellow: 
+***Explain Detail Action***: 4 Actions in the list bellow: 
 
 *Action 0*: Move forward 
 *Action 1*: Move backward
@@ -81,11 +78,11 @@ Each ray is represented by a vector with 4th first elements are the indetical ra
 
 
 ![alt text](https://github.com/TriKnight/DQN_Navigation_Project/blob/master/pics/banana_env_actions.png)
-[Source](https://wpumacay.github.io/research_blog/posts/deeprlnd-project1-navigation/?fbclid=IwAR2oHLD-WwJkBdyis6sHMgSDH7-LkjHxaZGELckBTY_Sy_qfLwaxGX2lp4I)
+
 
 <p align="center">
    Fig4. Action of the Agent
-</p>
+</p>[Source](https://wpumacay.github.io/research_blog/posts/deeprlnd-project1-navigation/?fbclid=IwAR2oHLD-WwJkBdyis6sHMgSDH7-LkjHxaZGELckBTY_Sy_qfLwaxGX2lp4I)
 
 
         
