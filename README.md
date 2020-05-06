@@ -53,18 +53,21 @@ In this project:
 
 
 ***Explain Detail Observation:***
+<p align="center">
 7 ray perceptions with each ray include 5 entries (35 values) and 2 Value agent's velocity
 ![alt text](https://github.com/TriKnight/DQN_Navigation_Project/blob/master/pics/banana_env_observations.png)
 [Source](https://wpumacay.github.io/research_blog/posts/deeprlnd-project1-navigation/?fbclid=IwAR2oHLD-WwJkBdyis6sHMgSDH7-LkjHxaZGELckBTY_Sy_qfLwaxGX2lp4I)
 
 *Fig2. Agent ray-perceptions. a) 7 rays reaching at least one object (banana or wall). b) One ray reaching the max. length before reaching any object*
-
+</p>
 
 Each ray is represented by a vector with 4th first elements are the indetical ray object detection and the last one is percentage of ray range, if ray range over the limit, it will be 0.0. The example show the ray[0 1 0 0 0.1534]
 
+<p align="center">
 ![alt text](https://github.com/TriKnight/DQN_Navigation_Project/blob/master/pics/ray_explain.png)
 
 *Fig3. Observation ray explain*
+</p>
 
 ***Explain Detail Action***: 
 4 Actions in the list bellow: 
@@ -73,11 +76,13 @@ Each ray is represented by a vector with 4th first elements are the indetical ra
 *Action 1*: Move backward
 *Action 2*: Turn Left
 *Action 3*: Turn Right
+
+<p align="center">
 ![alt text](https://github.com/TriKnight/DQN_Navigation_Project/blob/master/pics/banana_env_actions.png)
 [Source](https://wpumacay.github.io/research_blog/posts/deeprlnd-project1-navigation/?fbclid=IwAR2oHLD-WwJkBdyis6sHMgSDH7-LkjHxaZGELckBTY_Sy_qfLwaxGX2lp4I)
 
 *Fig3. Action of the Agent*
 
-
+</p>
 
 
