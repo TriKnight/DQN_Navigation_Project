@@ -31,5 +31,5 @@ pip install -r requirements.txt
 conda install -c anaconda ipykernel
 python -m ipykernel install  --user --name=DQN_navigation
 ```
-Open Jupyter notebok. Go to Kernel/Change Kernel/DQN_navigation
+Open Jupyter notebok. Go to ```Kernel/Change Kernel/DQN_navigation```
 
