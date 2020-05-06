@@ -5,4 +5,6 @@ This is the DQN_Navigation_Project
 
 ```
 conda create -n deeprl_navigation python=3.6
-source activate deeprl_navigation```
+source activate deeprl_navigation
+```
+
