@@ -57,9 +57,23 @@ In this project:
 
 Agent ray-perceptions. a) 7 rays reaching at least one object (banana or wall). b) One ray reaching the max. length before reaching any object
 
+Each ray is represented by a vector with 4th first elements are the indetical ray object detection and the last one is percentage of ray range, if ray range over the limit, it will be 0.0. The example show the ray[0 1 0 0 0.1534]
+
+![alt text](https://github.com/TriKnight/DQN_Navigation_Project/blob/master/pics/ray_explain.png)
+
+
+
 *Explain Detail Action*: 
+4 Actions in the list bellow: 
 
 *Action 0*: Move forward 
 *Action 1*: Move backward
+*Action 2*: Turn Left
+*Action 3*: Turn Right
+![alt text](https://github.com/TriKnight/DQN_Navigation_Project/blob/master/pics/banana_env_actions.png)
+[Source](https://wpumacay.github.io/research_blog/posts/deeprlnd-project1-navigation/?fbclid=IwAR2oHLD-WwJkBdyis6sHMgSDH7-LkjHxaZGELckBTY_Sy_qfLwaxGX2lp4I)
+
+
+
 
 
