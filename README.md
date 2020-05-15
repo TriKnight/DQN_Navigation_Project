@@ -68,6 +68,8 @@ Go to ```Kernel/Change Kernel/DQN_navigation```
 Reinforcement Block diagram
 In the reinforcement learning. First step is determine what are the action, state, reward, agent, enviroment?
 
+#### Watched Trained Agent
+
 [![Watched Trained Agent](http://i3.ytimg.com/vi/OaNuVnunzmA/maxresdefault.jpg)](https://youtu.be/OaNuVnunzmA)
 
 
