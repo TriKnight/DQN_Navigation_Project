@@ -35,8 +35,9 @@ git clone https://github.com/TriKnight/DQN_Navigation_Project
 cd DQN_Navigation_Project
 pip install -r requirements.txt
 
+
 ```
-### 1.3 Create and Adding Kernel to Jupyter notebook
+### 1.3 Create and Adding Kernel and Running Jupyter notebook
 ```
 conda install -c anaconda ipykernel
 python -m ipykernel install  --user --name=DQN_navigation
@@ -47,6 +48,9 @@ jupyter notebook
 ```
 
 Go to ```Kernel/Change Kernel/DQN_navigation```
+
+Running file ***Navigation.ipynb***
+
 
 ### 1.4 Download Environment
 1. Download the environment from one of the links below.  You need only select the environment that matches your operating system:
