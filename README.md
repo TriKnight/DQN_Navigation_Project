@@ -15,7 +15,7 @@ conda create -n DQN_navigation python=3.6
 # activate environment
 source activate DQN_navigation
 ```
-### 1.2 Install all dependence
+### 1.2 Install all dependences
 ```
 
 # clone the udacity repo
