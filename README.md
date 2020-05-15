@@ -64,6 +64,7 @@ Go to ```Kernel/Change Kernel/DQN_navigation```
 
 
 ## 2. Banana Navigation Environment
+![Youtube Trained Agent](https://youtu.be/OaNuVnunzmA)
 Reinforcement Block diagram
 In the reinforcement learning. First step is determine what are the action, state, reward, agent, enviroment?
 
