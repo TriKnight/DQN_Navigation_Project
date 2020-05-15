@@ -138,7 +138,8 @@ Following the papper
 
 
 ### References:
-1. https://wpumacay.github.io/ [link](https://wpumacay.github.io/research_blog/posts/deeprlnd-project1-navigation/?fbclid=IwAR2oHLD-WwJkBdyis6sHMgSDH7-LkjHxaZGELckBTY_Sy_qfLwaxGX2lp4I)
+1. ["Human-level control through deep reinforcementlearning"](http://files.davidqiu.com//research/nature14236.pdf)
+2. https://wpumacay.github.io/ [link](https://wpumacay.github.io/research_blog/posts/deeprlnd-project1-navigation/?fbclid=IwAR2oHLD-WwJkBdyis6sHMgSDH7-LkjHxaZGELckBTY_Sy_qfLwaxGX2lp4I)
 
        
 
