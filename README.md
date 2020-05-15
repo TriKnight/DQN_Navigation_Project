@@ -69,13 +69,14 @@ Running file ***Navigation.ipynb***
 
 ## 2. Banana Navigation Environment
 
-Reinforcement Block diagram
-In the reinforcement learning. First step is determine what are the action, state, reward, agent, enviroment?
 
 #### Watched Trained Agent (the agent can get 19 scores)
 
 [![Watched Trained Agent](http://i3.ytimg.com/vi/OaNuVnunzmA/maxresdefault.jpg)](https://youtu.be/OaNuVnunzmA)
 
+
+Reinforcement Block diagram
+In the reinforcement learning. First step is determine what are the action, state, reward, agent, enviroment?
 
 ![alt text](https://github.com/TriKnight/DQN_Navigation_Project/blob/master/pics/reinforcement-learning-fig1-700.jpg)
 
