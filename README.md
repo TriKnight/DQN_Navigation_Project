@@ -1,6 +1,6 @@
 # DQN_Navigation_Project
 This is the DQN_Navigation_Project 
-## 1. Installation Requirements
+## 1. Setup Environment and Installation Requirements
 The Project use the MLAngents version 0.4.0 so we need to do some following steps
 ### 1.1 Install Anaconda & Create virtual environment using conda
 Install Anaconda following link bellow
